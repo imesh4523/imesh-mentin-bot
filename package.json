@@ -1,0 +1,21 @@
+{
+  "name": "Liushen Mention Bot",
+  "version": "1.0.0",
+  "description": "A official whatsapp users mention bot that use Liushen Bot core",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pixcap TM",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/boom": "^9.1.4",
+    "@types/node": "^18.0.6",
+    "@whiskeysockets/baileys": "^6.6.0",
+    "node-cache": "^5.1.2",
+    "node-fetch": "^3.2.6",
+    "pino": "^8.19.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
